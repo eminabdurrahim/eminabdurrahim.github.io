@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Abdurrahim Emin"
   avatar           : "upme.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Control and Automation Engineering Student"
+  location         : #"Location"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "eminabdurrahim"
+  github           : #"eminabdurrahim"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         :"https://www.linkedin.com/in/abdurrahimemin/"
   orcid            : 
   pinterest        :
   soundcloud       :
