@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abdurrahim Emin"
+title                    : #"Abdurrahim Emin"
 title_separator          : "-"
 name                     : &name "Abdurrahim Emin"
 description              : &description "Control and Automation Engineering Student"
