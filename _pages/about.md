@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Abdurrahim Emin"
+title: #"Abdurrahim Emin"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
