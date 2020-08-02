@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"Abdurrahim Emin"
+title                    : "Abdurrahim Emin"
 title_separator          : "-"
 name                     : &name "Abdurrahim Emin"
 description              : &description "Control and Automation Engineering Student"
@@ -259,19 +259,19 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
+#plugins:
+  #- jekyll-paginate
+  #- jekyll-sitemap
+  #- jekyll-gist
+  #- jekyll-feed
+  #- jekyll-redirect-from
 # mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
+#whitelist:
+ # - jekyll-paginate
+ # - jekyll-sitemap
+ # - jekyll-gist
+ # - jekyll-feed
+ # - jemoji
 
 
 # Archives
