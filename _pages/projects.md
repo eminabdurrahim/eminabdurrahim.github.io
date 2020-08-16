@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 1- full brifge converter
+
+
 http://academicpages.github.io/files/Full_Bridge_pr.pdf
 
 
