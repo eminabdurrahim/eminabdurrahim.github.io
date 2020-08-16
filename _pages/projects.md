@@ -8,7 +8,7 @@ author_profile: true
 1- full brifge converter
 
 
-http://eminabdurrahim.github.io//files/Full_Bridge_pr.pdf
+http://eminabdurrahim.github.io/files/Full_Bridge_pr.pdf
 
 
 2- speed controller for autonomous car
